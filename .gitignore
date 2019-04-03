@@ -1,0 +1,5 @@
+.ideas
+.env
+db.sqlite3
+secrets.py
+__pycache__
